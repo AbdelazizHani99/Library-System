@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1775773611 source:c:\users\leoni\onedrive\desktop\lib-system\main.cpp
+	<iostream>
+	"BookStore.h"
+
+1775772963 c:\users\leoni\onedrive\desktop\lib-system\include\bookstore.h
+	<iostream>
+	<unordered_map>
+	"Book.h"
+
+1775774361 c:\users\leoni\onedrive\desktop\lib-system\include\book.h
+	<iostream>
+	<string>
+
+1775774197 source:c:\users\leoni\onedrive\desktop\lib-system\src\book.cpp
+	"Book.h"
+
+1775774185 source:c:\users\leoni\onedrive\desktop\lib-system\src\bookstore.cpp
+	"BookStore.h"
+
